@@ -41,7 +41,9 @@ PayloadVSuccess_CCAFS.png \
 SitespecificPieChart.png
 
 #### Folium Photos
-
+Folium_Site_Markers.png \ 
+Folium_Red_Green.png \ 
+Folium_distance_lines.png
 
 #### EDA Data Visualization photos
 FlightNum_vs_PayloadMass_scatter.png \
