@@ -34,6 +34,10 @@ SpaceX_Predictive_Analytics.ipynb
 ## Powerpoint, Appendix assets and photos
 Link to wikipedia page used in webscraping [Falcon 9 Wikipedia](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
 
+#### Powerpoint
+SpaceX-DS-Presentation.pptx \
+SpaceX-DS-Presentation.pdf
+
 #### Dash app photos
 DASHAPP Piechart.png \
 Dash_dropdown.png \
